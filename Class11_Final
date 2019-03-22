@@ -1,0 +1,9 @@
+When user inputs money into the coin slot and selects desired product by in putting the code that matches the product .  The User should receive desired product
+
+Test:
+1 user identifies desired product
+2 user inserts money into coin slot
+3 user inputs the code that’s designated for the product user  wants
+4 user pulls product from vending machine and visually inspects that it is the desired product
+
+Outcome: User receives desired product by following the steps.
